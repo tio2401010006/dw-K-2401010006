@@ -243,15 +243,11 @@ body {
 .contoh label {
   font-size: 20px;
 }
-.kontak {
-  border-radius: 20%;
-}
-
-
 
 .kontak {
   width: 80%;
   margin: auto;
+  border-radius: 20%;
 }
 .kontak .row form {
   flex: 1 1 45rem;
